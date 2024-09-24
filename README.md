@@ -144,61 +144,97 @@
   
  <div class="content">
   <p id="para3">
-
- <br> Card manipulation (Ang)
-  <br> Cartomagia (Esp)
-  <br> Kartenkunst (Alm)
-  <br>Cartomagia (It)
-  <br>Манипуляции с картами
-  <br>
-  
-
-  </p>
+       <iframe src="https://drive.google.com/file/d/1sUlHWImp7TOZTldjEzF2HRCUgzs3rki6/preview" width="640" height="480" allow="autoplay"></iframe>
+       <br>
+       <iframe src="https://drive.google.com/file/d/1u3FgpvrPeQ8OZ8JthVyiyy5TStscSTNm/preview" width="640" height="480" allow="autoplay"></iframe>
+        <br>
+     <br> Card manipulation (Ang)
+     <br> Cartomagia (Esp)
+     <br> Kartenkunst (Alm)
+     <br>Cartomagia (It)
+     <br>Манипуляции с картами
+     <br>
+    </p>
  </div>
 
 
 
 
- <img scr="https://www.toulousebouge.com/images/icagenda/frontend/images/20230818_205649_680_WhatsApp_Image_2023-08-18__20.48.20.jpg" >
 
 
-
-
-
+ <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Les anneaux magiques / chinois</b></p>  </button>
   
  <div class="content">
   <p id="para3">
-
-
+      <iframe src="https://drive.google.com/file/d/1rlAqLZkw5tJEwMqPvg3rkfFS3jn1Yyve/preview" width="640" height="480" allow="autoplay"></iframe>
+      <br>
+        <iframe src="https://drive.google.com/file/d/1zbspFqrd0ARLpBGun-WPpe_aNak-CEfD/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
  </div>
 
+
+
+ <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Les cordes magiques</b></p>  </button>
   
  <div class="content">
   <p id="para3">
-
-
+      <iframe src="https://drive.google.com/file/d/1GLCh6aC2g9yJQiirR0xr36dDRPWutVm_/preview" width="640" height="480" allow="autoplay"></iframe>
+      <br>
+      <iframe src="https://drive.google.com/file/d/13HhZRnbG1UtGCJZp7OtDOkKqsxRZxBTp/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
  </div>
 
+ <br><br>
+ <button type="button" class="collapsible"><p id="para3"><b>Les rubix</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+       <iframe src="https://drive.google.com/file/d/17bPjsgtAsQY4jGThundqcKHSLKGNakEQ/preview" width="640" height="480" allow="autoplay"></iframe>
+      </p>
+ </div>
+
+  <br><br>
+ <button type="button" class="collapsible"><p id="para3"><b>Les pièces</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+       <iframe src="https://drive.google.com/file/d/1zGGKm9H0BzYMhyZe2dDxORAJ6dE4xDj4/preview" width="640" height="480" allow="autoplay"></iframe>
+       <br>
+       <iframe src="https://drive.google.com/file/d/1JVC0odZFfGyFO63M7lj2XoGCYI2Ftplt/preview" width="640" height="480" allow="autoplay"></iframe>
+      </p>
+ </div>
+
+
+
+
+ <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Divers </b></p>  </button>
   
  <div class="content">
   <p id="para4">
-   <br>Orange obéissant
- <iframe src="https://drive.google.com/file/d/1b80I3xlQY2tdnwJTrCB55okmX-s2bGgH/preview" width="640" height="480" allow="autoplay"></iframe>
- <br>
- <br>Verre/[pièce]
- <iframe src="https://drive.google.com/file/d/1GoprH5rnd2ezWTT8Wt0RnWQymYCnNQmW/preview" width="640" height="480" allow="autoplay"></iframe>
- <br>
- <br>Les couleurs
- <iframe src="https://drive.google.com/file/d/14d8Dp2yJlt29ymCoJliyw4BLm3Ev4mVl/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
+     <br>Orange obéissant
+     <iframe src="https://drive.google.com/file/d/1b80I3xlQY2tdnwJTrCB55okmX-s2bGgH/preview" width="640" height="480" allow="autoplay"></iframe>
+     <br>
+     <br>Verre/[pièce]
+     <iframe src="https://drive.google.com/file/d/1GoprH5rnd2ezWTT8Wt0RnWQymYCnNQmW/preview" width="640" height="480" allow="autoplay"></iframe>
+     <br>
+      <br>Les couleurs
+       <iframe src="https://drive.google.com/file/d/14d8Dp2yJlt29ymCoJliyw4BLm3Ev4mVl/preview" width="640" height="480" allow="autoplay"></iframe>
+       <br>
+       <br>tours avec des livres
+       <iframe src="https://drive.google.com/file/d/1wtcDQBvmk0RaLOpfcEw0EKU1bWN0fyWb/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
  </div>
+
+
+
+
+
+
+
+
 
 
  <button type="button" class="collapsible"><p id="para3"><b>Les sorties</b></p>  </button>
@@ -207,8 +243,7 @@
   <p id="para3">
 
 
-  </p>
- </div>
+  
  <button type="button" class="collapsible"><p id="para3"><b>Spectacle de fin de l'année</b></p>  </button>
   
  <div class="content">
@@ -223,14 +258,16 @@
   </p>
  </div>
 
+  
+ <button type="button" class="collapsible"><p id="para3"><b>Qui est ce prof de magie?</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+       <iframe src="https://drive.google.com/file/d/1Bn1XsYsIwRtVBdY5sbqXfP9IhQOd251t/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-
-
-
-
-
-
+  </p>
+ </div>
 
 
 
