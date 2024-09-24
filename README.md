@@ -42,9 +42,9 @@
         color:#FF0000;
     }
     #para4{
-        font-size:20px;
+        font-size:40px;
         text-align:left;
-        color:#00FF00;
+        color:#000000;
     }
     #para5{
         font-size:40px;
@@ -113,9 +113,36 @@
  <h1 id="para1">Atelier de Magie du <br> Lycée <br> Déaodat de Séverac</h1>
  <br>  
  <br>
- <a href="">Pour voir des fotos de nos avtivité cliquer ici</a>
+ <a href="https://drive.google.com/drive/folders/1Qoc096HIFfHM3YhM4ohKKs5Id4_7sS27?usp=drive_link">Pour voir des fotos de nos avtivité cliquer ici</a>
  
- <button type="button" class="collapsible"><p id="para3"><b></b></p>  </button>
+
+
+
+
+
+ <button type="button" class="collapsible"><p id="para3"><b>Quel type de magie que vous connaissez? <br>D'après vous, qu'est-ce qu'on fait dans cet atelier?</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+ <br>Les cartes
+ <br>Les monnaies / les pièces
+  <br>Les anneaux magiques
+  <br><s>Apparition /disparition</>
+  <br>
+  
+
+
+
+
+  </p>
+ </div>
+
+
+
+
+
+
+ <button type="button" class="collapsible"><p id="para3"><b>Cartomagie</b></p>  </button>
   
  <div class="content">
   <p id="para3"><i></i>
