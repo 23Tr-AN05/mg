@@ -183,6 +183,24 @@
   </p>
  </div>
 
+ <button type="button" class="collapsible"><p id="para3"><b>Divers </b></p>  </button>
+  
+ <div class="content">
+  <p id="para4">
+   <br>Orange obéissant
+ <iframe src="https://drive.google.com/file/d/1b80I3xlQY2tdnwJTrCB55okmX-s2bGgH/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br>
+ <br>Verre/[pièce]
+ <iframe src="https://drive.google.com/file/d/1GoprH5rnd2ezWTT8Wt0RnWQymYCnNQmW/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br>
+ <br>Les couleurs
+ <iframe src="https://drive.google.com/file/d/14d8Dp2yJlt29ymCoJliyw4BLm3Ev4mVl/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+  </p>
+ </div>
+
+
  <button type="button" class="collapsible"><p id="para3"><b>Les sorties</b></p>  </button>
   
  <div class="content">
@@ -195,8 +213,13 @@
   
  <div class="content">
   <p id="para3">
-
-
+     <iframe src="https://drive.google.com/file/d/1p1mLoGZWo4FOj9OF0TBYMIP9iqxQ7StP/preview" width="640" height="480" allow="autoplay"></iframe> 
+     <br>
+     <iframe src="https://drive.google.com/file/d/1hTVqQ57WNE_ncD_qACmR4qiuUabgwJKK/preview" width="640" height="480" allow="autoplay"></iframe>
+      <br>
+      <iframe src="https://drive.google.com/file/d/1bvbD_SW5GHznIbS497_8zbgPpamPj1_N/preview" width="640" height="480" allow="autoplay"></iframe>
+      <br>
+      <iframe src="https://drive.google.com/file/d/1jXCDb910QOqH5MXCMb_egmc8onicfak3/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
  </div>
 
