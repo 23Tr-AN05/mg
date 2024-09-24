@@ -183,6 +183,7 @@
   </p>
  </div>
 
+ <br><br>
 
  <button type="button" class="collapsible"><p id="para3"><b>Spectacle de fin de l'année</b></p>  </button>
   
@@ -198,7 +199,7 @@
   </p>
  </div>
 
-  
+  <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Qui est ce prof de magie?</b></p>  </button>
   
  <div class="content">
