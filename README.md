@@ -121,9 +121,9 @@
   
  <div class="content">
   <p id="para3">
-      <iframe src="https://drive.google.com/file/d/1GLCh6aC2g9yJQiirR0xr36dDRPWutVm_/preview" width="640" height="480" allow="autoplay"></iframe>
+      <iframe src="https://drive.google.com/file/d/1GLCh6aC2g9yJQiirR0xr36dDRPWutVm_/preview" width="300" height="300" allow="autoplay"></iframe>
       <br>
-      <iframe src="https://drive.google.com/file/d/13HhZRnbG1UtGCJZp7OtDOkKqsxRZxBTp/preview" width="640" height="480" allow="autoplay"></iframe>
+      <iframe src="https://drive.google.com/file/d/13HhZRnbG1UtGCJZp7OtDOkKqsxRZxBTp/preview" width="300" height="300" allow="autoplay"></iframe>
   </p>
  </div>
 
@@ -132,7 +132,7 @@
   
  <div class="content">
   <p id="para3">
-       <iframe src="https://drive.google.com/file/d/17bPjsgtAsQY4jGThundqcKHSLKGNakEQ/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/17bPjsgtAsQY4jGThundqcKHSLKGNakEQ/preview" width="400" height="400" allow="autoplay"></iframe>
       </p>
  </div>
 
@@ -141,9 +141,9 @@
   
  <div class="content">
   <p id="para3">
-       <iframe src="https://drive.google.com/file/d/1zGGKm9H0BzYMhyZe2dDxORAJ6dE4xDj4/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/1zGGKm9H0BzYMhyZe2dDxORAJ6dE4xDj4/preview" width="300" height="300" allow="autoplay"></iframe>
        <br>
-       <iframe src="https://drive.google.com/file/d/1JVC0odZFfGyFO63M7lj2XoGCYI2Ftplt/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/1JVC0odZFfGyFO63M7lj2XoGCYI2Ftplt/preview" width="300" height="300" allow="autoplay"></iframe>
       </p>
  </div>
 
