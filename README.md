@@ -178,15 +178,17 @@
 
 
 
-
+ <br><br>
 
  <button type="button" class="collapsible"><p id="para3"><b>Les sorties</b></p>  </button>
   
  <div class="content">
   <p id="para3">
+     <iframe src="https://drive.google.com/file/d/1u-SEg5qzcWwoRXefkgWGD9Zdc57GPG16/preview" width="640" height="480" allow="autoplay"></iframe>
+  </p>
+ </div>
 
 
-  
  <button type="button" class="collapsible"><p id="para3"><b>Spectacle de fin de l'année</b></p>  </button>
   
  <div class="content">
@@ -205,18 +207,14 @@
  <button type="button" class="collapsible"><p id="para3"><b>Qui est ce prof de magie?</b></p>  </button>
   
  <div class="content">
-  <p id="para3">
+    <p id="para3">
        <iframe src="https://drive.google.com/file/d/1Bn1XsYsIwRtVBdY5sbqXfP9IhQOd251t/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-  </p>
+   </p>
  </div>
 
 
 
-
-
- <body>
+ 
 
  <script>
  var coll = document.getElementsByClassName("collapsible");
