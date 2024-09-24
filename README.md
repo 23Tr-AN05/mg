@@ -113,6 +113,9 @@
  <h1 id="para1">Atelier de Magie du <br> Lycée <br> Déaodat de Séverac</h1>
  <br>  
  <br>
+<iframe src="https://drive.google.com/file/d/1haYEwbf34tDv-5S9wizQfIpl-GMEykVo/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
  <a href="https://drive.google.com/drive/folders/1Qoc096HIFfHM3YhM4ohKKs5Id4_7sS27?usp=drive_link">Pour voir des fotos de nos avtivité cliquer ici</a>
  
 
