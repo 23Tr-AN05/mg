@@ -113,14 +113,11 @@
  <h1 id="para1">Atelier de Magie du <br> Lycée <br> Déaodat de Séverac</h1>
  <br>  
  <br>
-<iframe src="https://drive.google.com/file/d/1haYEwbf34tDv-5S9wizQfIpl-GMEykVo/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1haYEwbf34tDv-5S9wizQfIpl-GMEykVo/preview" width="640" height="480" allow="autoplay"></iframe>
 
-
+ <br>
  <a href="https://drive.google.com/drive/folders/1Qoc096HIFfHM3YhM4ohKKs5Id4_7sS27?usp=drive_link">Pour voir des fotos de nos avtivité cliquer ici</a>
  
-
-
-
 
 
  <button type="button" class="collapsible"><p id="para3"><b>Quel type de magie que vous connaissez? <br>D'après vous, qu'est-ce qu'on fait dans cet atelier?</b></p>  </button>
@@ -130,12 +127,10 @@
  <br>Les cartes
  <br>Les monnaies / les pièces
   <br>Les anneaux magiques
-  <br><s>Apparition /disparition</>
+  <br><s>Apparition /disparition</s>
+  <br>Rubix-cubes
   <br>
   
-
-
-
 
   </p>
  </div>
@@ -148,11 +143,15 @@
  <button type="button" class="collapsible"><p id="para3"><b>Cartomagie</b></p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
+  <p id="para3">
+
+ <br> Card manipulation (Ang)
+  <br> Cartomagia (Esp)
+  <br> Kartenkunst (Alm)
+  <br>Cartomagia (It)
+  <br>Манипуляции с картами
+  <br>
   
-
-
-
 
   </p>
  </div>
@@ -162,6 +161,44 @@
 
  <img scr="https://www.toulousebouge.com/images/icagenda/frontend/images/20230818_205649_680_WhatsApp_Image_2023-08-18__20.48.20.jpg" >
 
+
+
+
+
+ <button type="button" class="collapsible"><p id="para3"><b>Les anneaux magiques / chinois</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+
+
+  </p>
+ </div>
+
+ <button type="button" class="collapsible"><p id="para3"><b>Les cordes magiques</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+
+
+  </p>
+ </div>
+
+ <button type="button" class="collapsible"><p id="para3"><b>Les sorties</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+
+
+  </p>
+ </div>
+ <button type="button" class="collapsible"><p id="para3"><b>Spectacle de fin de l'année</b></p>  </button>
+  
+ <div class="content">
+  <p id="para3">
+
+
+  </p>
+ </div>
 
 
 
