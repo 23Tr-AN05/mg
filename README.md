@@ -63,8 +63,6 @@
  <br>
  <a href="https://drive.google.com/drive/folders/1Qoc096HIFfHM3YhM4ohKKs5Id4_7sS27?usp=drive_link">Pour voir des fotos de nos avtivité cliquer ici</a>
  
-
-
  <button type="button" class="collapsible"><p id="para3"><b>Quel type de magie que vous connaissez? <br>D'après vous, qu'est-ce qu'on fait dans cet atelier?</b></p>  </button>
   
  <div class="content">
@@ -80,8 +78,6 @@
    <br>
   </p>
  </div>
-
-
 
 
  <br><br>
@@ -113,7 +109,6 @@
         <iframe src="https://drive.google.com/file/d/1zbspFqrd0ARLpBGun-WPpe_aNak-CEfD/preview" width="200" height="200" allow="autoplay"></iframe>
   </p>
  </div>
-
 
 
  <br><br>
@@ -148,8 +143,6 @@
  </div>
 
 
-
-
  <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Divers </b></p>  </button>
   
@@ -165,12 +158,9 @@
        <iframe src="https://drive.google.com/file/d/14d8Dp2yJlt29ymCoJliyw4BLm3Ev4mVl/preview" width="640" height="480" allow="autoplay"></iframe>
        <br>
        <br>tours avec des livres
-       <iframe src="https://drive.google.com/file/d/1wtcDQBvmk0RaLOpfcEw0EKU1bWN0fyWb/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/1wtcDQBvmk0RaLOpfcEw0EKU1bWN0fyWb/preview" width="300" height="300" allow="autoplay"></iframe>
   </p>
  </div>
-
-
-
 
 
  <br><br>
@@ -207,7 +197,6 @@
        <iframe src="https://drive.google.com/file/d/1Bn1XsYsIwRtVBdY5sbqXfP9IhQOd251t/preview" width="640" height="480" allow="autoplay"></iframe>
    </p>
  </div>
-
 
 
  
