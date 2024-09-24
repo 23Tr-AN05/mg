@@ -38,8 +38,8 @@
     }
     #para3{
         font-size:20px;
-        text-align:left;
-        color:#000000;
+        text-align:center;
+        color:#FF0000;
     }
     #para4{
         font-size:20px;
@@ -113,7 +113,36 @@
  <h1 id="para1">Atelier de Magie du <br> Lycée <br> Déaodat de Séverac</h1>
  <br>  
  <br>
+ <a href="">Pour voir des fotos de nos avtivité cliquer ici</a>
  
+ <button type="button" class="collapsible"><p id="para3"><b></b></p>  </button>
+  
+ <div class="content">
+  <p id="para3"><i></i>
+  
+
+
+
+
+  </p>
+ </div>
+
+
+
+
+ <img scr="https://www.toulousebouge.com/images/icagenda/frontend/images/20230818_205649_680_WhatsApp_Image_2023-08-18__20.48.20.jpg" >
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
