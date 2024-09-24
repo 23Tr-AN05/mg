@@ -90,9 +90,9 @@
   
  <div class="content">
   <p id="para3">
-       <iframe src="https://drive.google.com/file/d/1sUlHWImp7TOZTldjEzF2HRCUgzs3rki6/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/1sUlHWImp7TOZTldjEzF2HRCUgzs3rki6/preview" width="100" height="100" allow="autoplay"></iframe>
        <br>
-       <iframe src="https://drive.google.com/file/d/1u3FgpvrPeQ8OZ8JthVyiyy5TStscSTNm/preview" width="640" height="480" allow="autoplay"></iframe>
+       <iframe src="https://drive.google.com/file/d/1u3FgpvrPeQ8OZ8JthVyiyy5TStscSTNm/preview" width="200" height="480" allow="autoplay"></iframe>
         <br>
      <br> Card manipulation (Ang)
      <br> Cartomagia (Esp)
@@ -103,19 +103,14 @@
     </p>
  </div>
 
-
-
-
-
-
  <br><br>
  <button type="button" class="collapsible"><p id="para3"><b>Les anneaux magiques / chinois</b></p>  </button>
   
  <div class="content">
   <p id="para3">
-      <iframe src="https://drive.google.com/file/d/1rlAqLZkw5tJEwMqPvg3rkfFS3jn1Yyve/preview" width="640" height="480" allow="autoplay"></iframe>
+      <iframe src="https://drive.google.com/file/d/1rlAqLZkw5tJEwMqPvg3rkfFS3jn1Yyve/preview" width="100" height="100" allow="autoplay"></iframe>
       <br>
-        <iframe src="https://drive.google.com/file/d/1zbspFqrd0ARLpBGun-WPpe_aNak-CEfD/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe src="https://drive.google.com/file/d/1zbspFqrd0ARLpBGun-WPpe_aNak-CEfD/preview" width="100" height="100" allow="autoplay"></iframe>
   </p>
  </div>
 
