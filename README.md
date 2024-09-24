@@ -100,17 +100,19 @@
         font-size:20px;
         text-align:center;
     }
+    body{
+        color:black;
+        background-color:white;
+        background-image:url(https://www.google.com/imgres?q=image%20magie%20&imgurl=https%3A%2F%2Fst4.depositphotos.com%2F1277251%2F20728%2Fi%2F450%2Fdepositphotos_207289098-stock-photo-magical-smoke-hazy-dark-background.jpg&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Ffr%2Fphotos%2Fmagie.html&docid=s6YGn4v_9yHI5M&tbnid=mORyefGJxOHe9M&vet=12ahUKEwit87ipz9yIAxXTVaQEHWZ_LKEQM3oECHkQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwit87ipz9yIAxXTVaQEHWZ_LKEQM3oECHkQAA);
+        margin:0;
+    }
    
  </style></head>
 
  <body>
- <h1 id="para1">COMMENT PEUT-ON DEFINIR LA LIBERTE?</h1>
- <h2 id="para2">Comment peut-elle s'exprimer?</h2>
+ <h1 id="para1">Atelier de Magie du <br> Lycée <br> Déaodat de Séverac</h1>
  <br>  
  <br>
-
-
-
  
 
 
