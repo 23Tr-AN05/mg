@@ -51,61 +51,6 @@
         text-align:center;
         color:#FF1000;
     }
-    #para6{
-        font-size:20px;
-        text-align:left;
-        color:#13A640;
-    }
-     #para7{
-        font-size:30px;
-        text-align:center;
-        color:red;
-    }
-    #para8{
-        font-size:30px;
-        text-align:left;
-        color:#00FF00;
-    }
-    #para9{
-        font-size:20px;
-        text-align:right;
-        color:#000000;
-    }
-     #para10{
-        font-size:20px;
-        text-align:right;
-        color:#FF0000;
-        background-color:yellow;
-    }
-    mark{
-        background-color:yellow;
-        color:black;
-    }
-    #m1{
-        background-color:#FFDCDA;
-        color: black;
-    }
-    #m2{
-         background-color:#8FFF6D;
-        color: black;
-    }
-    #m3{
-         background-color:#C1FFFC;
-        color: black;
-    }
-    #p1{
-        text-align:center;
-    }
-    #p2{
-        font-size:20px;
-        text-align:center;
-    }
-    body{
-        color:black;
-        background-color:white;
-        background-image:url(https://www.google.com/imgres?q=image%20magie%20&imgurl=https%3A%2F%2Fst4.depositphotos.com%2F1277251%2F20728%2Fi%2F450%2Fdepositphotos_207289098-stock-photo-magical-smoke-hazy-dark-background.jpg&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Ffr%2Fphotos%2Fmagie.html&docid=s6YGn4v_9yHI5M&tbnid=mORyefGJxOHe9M&vet=12ahUKEwit87ipz9yIAxXTVaQEHWZ_LKEQM3oECHkQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwit87ipz9yIAxXTVaQEHWZ_LKEQM3oECHkQAA);
-        margin:0;
-    }
    
  </style></head>
 
@@ -130,15 +75,16 @@
   <br><s>Apparition /disparition</s>
   <br>Rubix-cubes
   <br>
-  
-
+  <br>
+  <br><br><br><br>
+   <br>
   </p>
  </div>
 
 
 
 
-
+ <br><br>
 
  <button type="button" class="collapsible"><p id="para3"><b>Cartomagie</b></p>  </button>
   
@@ -227,9 +173,6 @@
        <iframe src="https://drive.google.com/file/d/1wtcDQBvmk0RaLOpfcEw0EKU1bWN0fyWb/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
  </div>
-
-
-
 
 
 
